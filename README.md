@@ -17,7 +17,7 @@
 
 ### **3. Challenges, Drawbacks and Concerns!**
 - Being a govt. site, it requires a bit of patience to let it load the data in the background. 
-- The Dataset could be very large depending on the time period. I have used sleep statements to go along with the loading process of the website. To put things into perspective, just Potato for Year 2020 had more than 164k rows.
+- The Dataset could be very large depending on the time period. I have used sleep statements to go along with the loading process of the website. To put things into perspective, just Potato for Year 2020 had more than 164k rows. And since each page only shows 50 rows, this might take a long time to run.
 - Theoretically it can be scaled by horizontal scaling, distributed computing and multithreading to fetch data for multiple or all commodities together.
 
 ### **4. Why?**
