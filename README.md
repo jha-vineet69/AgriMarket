@@ -1,6 +1,7 @@
 # AgriMarket
 
-### **Data Source:** [Agmarknet](https://agmarknet.gov.in/Default.aspx) portal is a GOI (Govt of India) portal on agricultural marketing. The Portal provides both static and dynamic information relating to agricultural marketing in India . 
+### **Data Source:** 
+[Agmarknet](https://agmarknet.gov.in/Default.aspx) portal is a GOI (Govt of India) portal on agricultural marketing. The Portal provides both static and dynamic information relating to agricultural marketing in India . 
 - The static information is about infrastructure- related (Storage, warehousing, Cold Storage, grading and packing facilities), Market – related (market fee/ charges, weighment, handling, market functionaries, development programmes, market laws, composition of market Committees, income and expenditure, etc) and Promotion-related information (Standards, Grades, Labelling, Sanitary and Phyto-Sanitary requirements, Pledge Financing, Marketing Credit and new opportunities available, etc.). 
 - The dynamic part comprise Price-related information comprising maximum, minimum and modal prices of varieties, total arrivals and dispatches with destination. The portal provides easy access to commodity-wise, variety-wise daily prices and arrivals information of more than 2000 varieties and about 300 commodities from the wholesale markets spread all over the country.
 
