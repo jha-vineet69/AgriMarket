@@ -21,11 +21,11 @@
 - Theoretically it can be scaled by horizontal scaling, distributed computing and multithreading to fetch data for multiple or all commodities together.
 
 ### **4. Why?**
-- The purpose of this project was to brush up web-scraping concepts and specifications Selenium and BeautifulSoup.
+- The purpose of this project was to brush up web-scraping concepts and specifically Selenium and BeautifulSoup.
 
 ### **5. How to use this project?**
 - You can learn about Selenium and BeautifulSoup concepts through the code. I have added comments and documentation for every method.
-- You can also use this to download a reasonable amount of data through this and use it for your Time-Series Forecasting or Analytics and Visualization projects.
+- You can also use this to download a reasonable amount of data through this and use it for your Time-Series Forecasting or Analytics & Visualization projects.
 
 ### **6. Things to Note:**
 - This being a govt site, I believe that the servers on the backend are not powerful or smart enough to handle these many requests. 
